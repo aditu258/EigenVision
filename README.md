@@ -108,4 +108,3 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 **Project Maintainer:** Aditya Sinha  
-**Kaggle Project:** [PCA Project on Kaggle](https://www.kaggle.com/code/adityasinha5730/eigen-vision-project/edit)
