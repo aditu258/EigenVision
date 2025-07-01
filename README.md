@@ -21,7 +21,6 @@ All code and analysis are contained in the Jupyter notebook: `EigenVision.ipynb`
 ---
 
 ## 📁 Data
-- **Source:** [Kaggle Digit Recognizer Competition](https://www.kaggle.com/c/digit-recognizer)
 - **File Used:** `train.csv` (downloaded manually and loaded from local path)
 - **Shape:** 42,000 samples × 785 columns (1 label + 784 pixel values)
 
