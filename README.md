@@ -1,9 +1,4 @@
 # 🚀 EigenVision
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Platform](https://img.shields.io/badge/platform-Jupyter%20Notebook-orange)
-
 > **EigenVision**: Unlocking the power of computer vision with Python and Jupyter Notebooks.
 
 ---
