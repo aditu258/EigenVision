@@ -93,7 +93,7 @@ pip install pandas numpy scikit-learn matplotlib plotly
 2. Open `EigenVision.ipynb` in Jupyter Notebook or JupyterLab.
 3. Run all cells to reproduce the analysis and results.
 
----
+----
 
 ## 📄 License
 This project is licensed under the MIT License.
